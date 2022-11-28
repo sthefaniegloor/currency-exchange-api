@@ -1,0 +1,15 @@
+{
+  "name": "exchange_rate",
+  "version": "1.0.0",
+  "description": "NodeJS + npm/yarn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sthefanie Gloor",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "nodemon": "^2.0.20"
+  }
+}
